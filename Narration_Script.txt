@@ -1,0 +1,45 @@
+Hello, and welcome! In this video, we’ll explore derivatives, and see how they help us understand the rate of change.
+
+Let’s begin with a simple question: how fast is something changing? We ask this all the time, about speed, about growth, about prices. Calculus gives us a precise way to answer it.
+
+Imagine a car moving along a road. Its position changes from moment to moment. But how fast is it changing, right at this instant?
+
+Let’s turn this idea into mathematics. Here is our function: f of x equals x squared. This function creates a curved graph, a smooth, upward-opening curve.
+
+And here is the big idea: a derivative tells us how quickly a function changes.
+
+Now let’s visualise the curve. Here are our axes, and here is the graph of x squared. Notice that the curve gets steeper as we move to the right, so the rate of change isn’t the same everywhere. To measure it, we’ll mark two points on the curve. We choose two points: x equals 2, and x equals 3.
+
+Step three: the average rate of change. We start with our function, f of x equals x squared.
+
+At x equals 2, f of 2 is 2 squared, which equals 4.
+
+At x equals 3, f of 3 is 3 squared, which equals 9.
+
+The average rate of change is the change in output divided by the change in input. So we take f of 3 minus f of 2, and divide by 3 minus 2.
+
+Plugging in our values, that’s 9 minus 4, over 3 minus 2, which equals 5.
+
+So between x equals 2 and x equals 3, the average rate of change is 5. On the graph, that’s the slope of the straight line joining our two points.
+
+But an average only describes a stretch of the curve. What we really want is the rate of change at a single point, the instantaneous rate.
+
+To find it, we shrink the gap between our two points. Let h be a tiny step away from 2, and take the limit as h approaches zero of f of 2 plus h, minus f of 2, all over h.
+
+Now substitute f of x equals x squared. We get 2 plus h, squared, minus 4, all over h.
+
+Expanding the square, 2 plus h squared becomes 4 plus 4h plus h squared. So the top is 4 plus 4h plus h squared, minus 4.
+
+The 4s cancel, leaving 4h plus h squared, over h.
+
+Now we can divide through by h, which leaves us with 4 plus h.
+
+As h approaches zero, 4 plus h approaches 4. So f prime of 2 equals 4.
+
+The instantaneous rate of change at x equals 2 is 4.
+
+So what does this answer mean? Geometrically, at x equals 2, the slope of the curve is 4. At that exact point, the function is rising four units for every one unit we move to the right.
+
+Let’s recap the key takeaways. One: derivatives measure change. Two: the derivative represents slope. Three: limits let us find instantaneous change. And four: for f of x equals x squared, f prime of 2 equals 4.
+
+Thank you for watching! This video was created by Kunal Kumar Jha. See you next time.
